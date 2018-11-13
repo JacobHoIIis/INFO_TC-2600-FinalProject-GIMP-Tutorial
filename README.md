@@ -16,7 +16,7 @@ This tutorial is designed to be an extension of Module 3: Digital Images by exte
 
 ---
 
-### Table of Contents
+### Table of Contents   
 
 [Part 1: Getting Started](Getting_Started.md  "Part 1: Getting Started")   
 [Part 2: Basic Editing Tools](Basic_Editing_Tools.md  "Part 2: Basic Editing Tools")  

@@ -12,6 +12,6 @@ This tutorial is designed to be an extension of Module 3: Digital Images; specif
 
 ### Table of Contents
 
-[Part 1: Getting Started](../INFOTC 2600 Final Project - GIMP Tutorial [Getting Started].md)   
-[Part 2: Basic Editing Tools](../INFOTC 2600 Final Project - GIMP Tutorial [Getting Started].md)   
-[Part 3: Effects and Fonts](../INFOTC 2600 Final Project - GIMP Tutorial [Getting Started].md)
+[Part 1: Getting Started](INFOTC 2600 Final Project - GIMP Tutorial [Getting Started].md "Part 1: Getting Started").  
+[Part 2: Basic Editing Tools]   
+[Part 3: Effects and Fonts]

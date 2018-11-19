@@ -18,16 +18,16 @@
 In GIMP, there are three main windows/toolbars you will use.
 
 The far left window, the ***Toolbox***, contains the main editing tools and their options.
-![editing pic 1](/Pictures/editing_1.png " Logo")   
+![editing pic 1](/Pictures/editing_1.png " ")   
 
 The middle window contains 1. the editing canvas,   
-![editing pic 2](/Pictures/editing_2.png " Logo")
+![editing pic 2](/Pictures/editing_2.png " ")
 
 and 2. the main navbar.   
-![editing pic 3](/Pictures/editing_3.png " Logo")
+![editing pic 3](/Pictures/editing_3.png " ")
 
 The right window, ***Layers and Brushes***, contains image layers (beyond the scope of this tutorial, but important for advanced editing) in the upper half, and various types of brushes used for the Paintbrush and Pencil tools (discussed later in this tutorial) in the lower half.
-![editing pic 4](/Pictures/editing_4.png " Logo")
+![editing pic 4](/Pictures/editing_4.png " ")
 
 ---
 
@@ -47,7 +47,7 @@ With GIMP, you can create a new image file or edit an existing image.
 1. Go to the navbar
 2. Select **File -> New**
 3. From here, you will get this window:   
-![editing pic 5](/Pictures/editing_5.png " Logo")
+![editing pic 5](/Pictures/editing_5.png " ")
 4. Choose the image width and height. **Templates** will also give you preset sizes for quick creation.
   * **Advanced Options** will give you more extensive options, but is beyond the scope of this tutorial.
 5. Once the size is set, select **Ok**.   
@@ -58,24 +58,36 @@ At this point you should see a blank white image on the canvas. We can now begin
 
 #### Painting, Pencil, and Text Tools
 
-1. Paintbrush   
+1. Paintbrush ![paintbrush](/Pictures/paintbrush.png " ")      
  The paintbrush tool can be used like just like name implies.     
 It will "paint" a stroke with blurred edges.   
 ![editing pic 6](/Pictures/editing_6.png " Logo")   
 
-2. Pencil   
+2. Pencil  ![pencil](/Pictures/pencil.png " ")   
  The pencil tool works the same way as the paintbrush tool.   
    However, it will "draw" a stroke *without* blurred edges.   
-   ![editing pic 7](/Pictures/editing_7.png " Logo")   
+   ![editing pic 7](/Pictures/editing_7.png " ")   
 
-3. Text Tool   
+3. Text Tool   ![texttool](/Pictures/texttool.png " ")   
 The text tool will allow you to type text anywhere on the canvas.   
-The color, font, and other style options can be changed in the **Toolbox** on left under **Tool Options**.   
-![editing pic 8](/Pictures/editing_8.png " Logo")   
+The color, text size, font type, and other style options can be changed in the **Toolbox** on the left under **Tool Options**.   
+![editing pic 8](/Pictures/editing_8.png " ")   
 
 ---
 
-#### Selection Tools
+#### Selection Tools   
+
+There are multiple selection tools that can be used for certain scenarios.    
+
+
+1. Rectangle Select Tool  ![rectangleselect](/Pictures/rectselect.png " ")     
+Selects a rectangular area.
+
+**Copying and Pasting:** To copy/paste selections, use the key combination *Command+C* to copy a selection.    
+To paste it's a little more complicated. Use *Command+V* to paste a selection. Once you've pasted the selection, will need to anchor it to the current layer. Navigate to the layers window on the right, and select the anchor icon on the bottom.   
+![editing pic 9](/Pictures/editing_9.png " ")   
+
+**Deleting:** To delete what you have selected, the easiest way is to use the key combination *Control+X*.
 
 ---
 

@@ -108,6 +108,20 @@ To paste it's a little more complicated. Use *Command+V* to paste a selection. O
 
 #### Move and Scaling Tools
 
+1. Move Tool ![movetool](/Pictures/movetool.png " ")   
+Very simple tool, it will move a selection anywhere on the canvas.   
+
+2. Transform Tools   
+ * Rotate Tool ![rotatetool](/Pictures/rotatetool.png " ")   
+ Rotates a selection by increments or by manual rotation.
+
+ * Scale Tool ![scaletool](/Pictures/scaletool.png " ")   
+ Resizes a selection by a certain amount.
+
+ * Flip Tool ![fliptool](/Pictures/fliptool.png " ")   
+ Flips a selection either vertically or horizontally.
+
+
 ---
 
 #### Resizing Tools

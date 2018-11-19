@@ -26,8 +26,9 @@ Wait for the installation to finish, then close the installer by choosing ***Fin
 
 At this point, you are ready to begin editing with GIMP.  
 
-If you want to customize options that you did not set during installation, they can be set later in GIMP's preferences under ***Edit -> Preferences***
+**Note:** If you want to customize options that you did not set during installation, they can be set later in GIMP's preferences under ***Edit -> Preferences***
 
 ---
+#### Up next...
 Basic editing tools will be covered in the next part of this tutorial, which you can find here:
 [Part 2: Basic Editing Tools](Basic_Editing_Tools.md  "Part 2: Basic Editing Tools").

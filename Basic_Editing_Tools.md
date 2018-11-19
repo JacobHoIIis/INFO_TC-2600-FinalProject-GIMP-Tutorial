@@ -80,8 +80,23 @@ The color, text size, font type, and other style options can be changed in the *
 There are multiple selection tools that can be used for certain scenarios.    
 
 
-1. Rectangle Select Tool  ![rectangleselect](/Pictures/rectselect.png " ")     
-Selects a rectangular area.
+1. Rectangle Select Tool  ![rectangleselect](/Pictures/rectselect.png " ")   
+Selects a rectangular area.   
+![editing pic 10](/Pictures/editing_10.png " ")    
+
+2. Ellipse Select Tool ![ellipseselect](/Pictures/ellipseselect.png " ")     
+Selects a circular/oval area.    
+![editing pic 11](/Pictures/editing_11.png " ")   
+
+3. Free Select Tool  ![freeselect](/Pictures/freeselect.png " ")    
+This tool can select in any shape you want it to select.    
+![editing pic 12](/Pictures/editing_12.png " ")   
+
+4. Fuzzy Select Tool   ![fuzzyselect](/Pictures/fuzzyselect.png " ")  
+Selects an area based off of color. Click a part of your image with a certain color, and it will select the surrounding area *as long as it is the same color*. For example, in the following picture we selected a black part of the image, and it selected any part that was black.
+![editing pic 13](/Pictures/editing_13.png " ")   
+
+There are other select tools to choose from; however the ones above are the most commonly used and will suffice for most basic editing purposes.
 
 **Copying and Pasting:** To copy/paste selections, use the key combination *Command+C* to copy a selection.    
 To paste it's a little more complicated. Use *Command+V* to paste a selection. Once you've pasted the selection, will need to anchor it to the current layer. Navigate to the layers window on the right, and select the anchor icon on the bottom.   

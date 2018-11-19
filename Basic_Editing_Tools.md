@@ -4,7 +4,7 @@
 #### Table of contents:   
 -[Layout and Tool Windows](#layout-and-tool-windows)   
 -[Creating/choosing a file](#creating/choosing-a-new-file-to-edit)    
--[Painting, Drawing, and Font Tools](#painting,-drawing,-and-font-tools)    
+-[Painting, Pencil, and Text Tools](#painting,-pencil,-and-text-tools)    
 -[Selection Tools](#selection-tools)     
 -[Move and Scaling Tools](#move-and-scaling-tools)       
 -[Resizing Tools](#resizing-tools)    
@@ -56,7 +56,18 @@ At this point you should see a blank white image on the canvas. We can now begin
 
 ---
 
-#### Painting, Drawing, and Font Tools
+#### Painting, Pencil, and Text Tools
+
+1. Paintbrush
+ * The paintbrush tool can be used like just like name implies.     
+It will "paint" a stroke with blurred edges.   
+![editing pic 6](/Pictures/editing_6.png " Logo")    
+2. Pencil   
+ * The pencil tool works the same way as the paintbrush tool.
+   However, it will "draw" a stroke *without* blurred edges.   
+   ![editing pic 7](/Pictures/editing_7.png " Logo")
+3. Text Tool
+
 
 ---
 

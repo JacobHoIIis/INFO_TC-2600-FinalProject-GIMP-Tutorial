@@ -4,7 +4,7 @@
 #### Where to Download:
 
 First, you need to download the latest version of GIMP.   
-You can find the latest stable version [Here](https://gimp.org/downloads")  
+You can find the latest stable version [Here](https://gimp.org/downloads").
 
 There are options for Windows, OSX, and Linux. It should automatically detect your operating system, and give you the correct download option.      
 However, if it doesn't, download the one that corresponds to your operating system under ***Show downloads***.
@@ -27,3 +27,7 @@ Wait for the installation to finish, then close the installer by choosing ***Fin
 At this point, you are ready to begin editing with GIMP.  
 
 If you want to customize options that you did not set during installation, they can be set later in GIMP's preferences under ***Edit -> Preferences***
+
+---
+Basic editing tools will be covered in the next part of this tutorial, which you can find here:
+[Part 2: Basic Editing Tools](Basic_Editing_Tools.md  "Part 2: Basic Editing Tools").

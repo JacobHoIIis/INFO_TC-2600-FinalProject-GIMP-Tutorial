@@ -58,16 +58,20 @@ At this point you should see a blank white image on the canvas. We can now begin
 
 #### Painting, Pencil, and Text Tools
 
-1. Paintbrush
- * The paintbrush tool can be used like just like name implies.     
+1. Paintbrush   
+ The paintbrush tool can be used like just like name implies.     
 It will "paint" a stroke with blurred edges.   
-![editing pic 6](/Pictures/editing_6.png " Logo")    
-2. Pencil   
- * The pencil tool works the same way as the paintbrush tool.
-   However, it will "draw" a stroke *without* blurred edges.   
-   ![editing pic 7](/Pictures/editing_7.png " Logo")
-3. Text Tool
+![editing pic 6](/Pictures/editing_6.png " Logo")   
 
+2. Pencil   
+ The pencil tool works the same way as the paintbrush tool.   
+   However, it will "draw" a stroke *without* blurred edges.   
+   ![editing pic 7](/Pictures/editing_7.png " Logo")   
+
+3. Text Tool   
+The text tool will allow you to type text anywhere on the canvas.   
+The color, font, and other style options can be changed in the **Toolbox** on left under **Tool Options**.   
+![editing pic 8](/Pictures/editing_8.png " Logo")   
 
 ---
 

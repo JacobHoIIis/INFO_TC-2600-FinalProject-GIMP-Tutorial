@@ -33,8 +33,24 @@ The right window, ***Layers and Brushes***, contains image layers (beyond the sc
 
 #### Creating/Choosing a File to Edit   
 
+With GIMP, you can create a new image file or edit an existing image.   
 
-*To Create a File*   
+*To edit an existing file:*
+1. Go to the navbar.
+2. Select **File -> Open**
+3. From here, you can navigate to the image you want to edit.
+4. Select **Open**
+5. Now the file is ready to be edited   
+
+*To create a new file:*
+
+1. Go to the navbar
+2. Select **File -> New**
+3. From here, you will get this window:   
+![editing pic 5](/Pictures/editing_5.png " Logo")
+4. Choose the image width and height. **Templates** will also give you preset sizes for quick creation.
+  * **Advanced Options** will give you more extensive options, but is beyond the scope of this tutorial.
+5. Once the size is set, select **Ok**.
 
 ---
 

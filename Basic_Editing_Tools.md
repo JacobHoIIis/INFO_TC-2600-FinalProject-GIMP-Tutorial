@@ -50,7 +50,9 @@ With GIMP, you can create a new image file or edit an existing image.
 ![editing pic 5](/Pictures/editing_5.png " Logo")
 4. Choose the image width and height. **Templates** will also give you preset sizes for quick creation.
   * **Advanced Options** will give you more extensive options, but is beyond the scope of this tutorial.
-5. Once the size is set, select **Ok**.
+5. Once the size is set, select **Ok**.   
+
+At this point you should see a blank white image on the canvas. We can now begin editing.
 
 ---
 

@@ -2,8 +2,8 @@
 ## Basic Editing Tools
 ---
 #### Table of contents:   
--[Creating/choosing a file](#creating/choosing-a-new-file-to-edit)   
--[Layout and Tool Windows](#layout-and-tool-windows)  
+-[Layout and Tool Windows](#layout-and-tool-windows)   
+-[Creating/choosing a file](#creating/choosing-a-new-file-to-edit)    
 -[Painting, Drawing, and Font Tools](#painting,-drawing,-and-font-tools)    
 -[Selection Tools](#selection-tools)     
 -[Move and Scaling Tools](#move-and-scaling-tools)       
@@ -13,11 +13,19 @@
 
 ---
 
-#### Creating/Choosing a File to Edit
+#### Layout and Tool Windows
+
+In GIMP, there are three main windows/toolbars you will use.
+
+The far left window contains the main editing tools.
+
 
 ---
 
-#### Layout and Tool Windows
+#### Creating/Choosing a File to Edit   
+
+
+*To Create a File*   
 
 ---
 

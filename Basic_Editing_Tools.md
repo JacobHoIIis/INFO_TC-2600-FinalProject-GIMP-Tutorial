@@ -97,8 +97,8 @@ Selects an area based off of color. Click a part of your image with a certain co
 
 There are other select tools to choose from; however the ones above are the most commonly used and will suffice for most basic editing purposes.
 
-**Copying and Pasting:** To copy/paste selections, use the key combination *Command+C* to copy a selection.    
-To paste it's a little more complicated. Use *Command+V* to paste a selection. Once you've pasted the selection, will need to anchor it to the current layer. Navigate to the layers window on the right, and select the anchor icon on the bottom.   
+**Copying and Pasting:** To copy/paste selections, use the key combination *Command(for Mac users) or Control(for Windows users) + C* to copy a selection.    
+To paste it's a little more complicated. Use *Command/Control+V* to paste a selection. Once you've pasted the selection, will need to anchor it to the current layer. Navigate to the layers window on the right, and select the anchor icon on the bottom.   
 ![editing pic 9](/Pictures/editing_9.png " ")   
 
 **Deleting:** To delete what you have selected, the easiest way is to use the key combination *Control+X*.
@@ -136,6 +136,33 @@ Similar to the blur tool, the smudge tool can also be used to blur edges. Additi
 
 ---
 
-#### Saving and Exporting a File
+#### Saving and Exporting a File   
+
+***Saving***   
+Saving your image file should be done periodically and often.   
+
+Initially, you will need to save your file with a name, so that it can be editable later on.   
+To do so, navigate on the navbar to **File -> Save**.
+Here, you can choose a name and location to save your file.    
+![editing pic 16](/Pictures/editing_16.png " ")    
+Upon selecting **Save**, the image will save as an **.xcf** file, which is GIMP file extension for editable files.   
+
+After you have saved your image initially, you can save your changes periodically either by choosing **File -> Save** or by the key combination *Command/Control+S*.   
+
+***Exporting***   
+You can export your finished images after you are done editing. Unlike **.xcf** files which are only viewable in GIMP, exporting to an image format will allow other users to view your image without GIMP.   
+
+To do so, navigate to **File -> Export As...**   
+Here, you can choose a name for your finished image.   
+![editing pic 17](/Pictures/editing_17.png " ")   
+
+After you have chosen a name, you can choose a file extension for your image.    
+![editing pic 18](/Pictures/editing_18.png " ")  
+The most commonly used extensions for viewable images are JPEG and PNG, and for the purposes of this tutorial either will suffice.
+
+When you have both the name and extension set, go ahead and select **Export**.   
+
+You now have a finished image, edited in GIMP. You can always go back and edit the *.xcf* file, and export again if you make changes.
+
 
 ---

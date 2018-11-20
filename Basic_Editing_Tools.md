@@ -7,7 +7,6 @@
 -[Painting, Pencil, and Text Tools](#painting,-pencil,-and-text-tools)    
 -[Selection Tools](#selection-tools)     
 -[Move and Scaling Tools](#move-and-scaling-tools)       
--[Resizing Tools](#resizing-tools)    
 -[Blur and Smudge Tools](#blur-and-smudge-tools)    
 -[Saving and Exporting a File](#saving-and-exporting-a-file)    
 
@@ -109,7 +108,7 @@ To paste it's a little more complicated. Use *Command+V* to paste a selection. O
 #### Move and Scaling Tools
 
 1. Move Tool ![movetool](/Pictures/movetool.png " ")   
-Very simple tool, it will move a selection anywhere on the canvas.   
+By clicking and holding, the tool will move a selection anywhere on the canvas.   
 
 2. Transform Tools   
  * Rotate Tool ![rotatetool](/Pictures/rotatetool.png " ")   
@@ -124,12 +123,19 @@ Very simple tool, it will move a selection anywhere on the canvas.
 
 ---
 
-#### Resizing Tools
-
----
 
 #### Blur and Smudge Tools
+
+1. Blur/Sharpen Tool ![blurtool](/Pictures/blurtool.png " ")    
+This tool can blur the edges of sharp parts of images. Likewise, the sharpen tool can do the opposite, although with less impact. The amount of blur or sharpness applied can be changed by adjusting the **Rate** at the bottom of the **Tool Options** window.   
+![editing pic 14](/Pictures/editing_14.png " ")   
+
+2. Smudge Tool ![smudgetool](/Pictures/smudgetool.png " ")   
+Similar to the blur tool, the smudge tool can also be used to blur edges. Additionally, it can also be used to "blend" or mix colors, extending it's usefulness beyond blurring.   
+![editing pic 15](/Pictures/editing_15.png " ")   
 
 ---
 
 #### Saving and Exporting a File
+
+---

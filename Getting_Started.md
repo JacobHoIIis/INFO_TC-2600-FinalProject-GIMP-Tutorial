@@ -4,7 +4,7 @@
 #### Where to Download:
 
 First, you need to download the latest version of GIMP.   
-You can find the latest stable version [Here](https://gimp.org/downloads").
+You can find the latest stable version [Here](https://gimp.org/downloads).
 
 There are options for Windows, OSX, and Linux. It should automatically detect your operating system, and give you the correct download option.      
 However, if it doesn't, download the one that corresponds to your operating system under ***Show downloads***.
@@ -16,13 +16,13 @@ However, if it doesn't, download the one that corresponds to your operating syst
 Once GIMP has finished downloading, navigate to the GIMP installer and open it.   
 
 Choose your language, and then select ***Ok***.
-![install pic 1](/Pictures/install_1.png " Logo")      
+![install pic 1](/Pictures/install_1.png " ")      
 
 On the next screen, you can either install or customize your installation. For the purposes of this tutorial, select ***Install***, as the default installation will work just fine for the purposes of this tutorial.
-![install pic 2](/Pictures/install_2.png " Logo")
+![install pic 2](/Pictures/install_2.png " ")
 
 Wait for the installation to finish, then close the installer by selecting ***Finish***.
-![install pic 3](/Pictures/install_3.png " Logo")   
+![install pic 3](/Pictures/install_3.png " ")   
 
 At this point, you are ready to begin editing with GIMP.  
 

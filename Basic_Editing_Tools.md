@@ -99,7 +99,7 @@ There are other select tools to choose from; however the ones above are the most
 
 **Copying and Pasting:** To copy/paste selections, use the key combination *Command(for Mac users) or Control(for Windows users) + C* to copy a selection.    
 To paste it's a little more complicated. Use *Command/Control+V* to paste a selection. Once you've pasted the selection, will need to anchor it to the current layer. Navigate to the layers window on the right, and select the anchor icon on the bottom.   
-![editing pic 9](/Pictures/editing_9.PNG " ")   
+![editing pic 9](/Pictures/editing_9.png " ")   
 
 **Deleting:** To delete what you have selected, the easiest way is to use the key combination *Control+X*.
 

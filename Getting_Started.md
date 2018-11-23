@@ -18,11 +18,11 @@ Once GIMP has finished downloading, navigate to the GIMP installer and open it.
 Choose your language, and then select ***Ok***.   
 ![install pic 1](/Pictures/install_1.PNG " ")      
 
-On the next screen, you can either install or customize your installation. For the purposes of this tutorial, select ***Install***, as the default installation will work just fine for the purposes of this tutorial.
-![install pic 2](/Pictures/install_2.png " ")
+On the next screen, you can either install or customize your installation. For the purposes of this tutorial, select ***Install***, as the default installation will work just fine for the purposes of this tutorial.   
+![install pic 2](/Pictures/install_2.PNG " ")
 
-Wait for the installation to finish, then close the installer by selecting ***Finish***.
-![install pic 3](/Pictures/install_3.png " ")   
+Wait for the installation to finish, then close the installer by selecting ***Finish***.   
+![install pic 3](/Pictures/install_3.PNG " ")   
 
 At this point, you are ready to begin editing with GIMP.  
 

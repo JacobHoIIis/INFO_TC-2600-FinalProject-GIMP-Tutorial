@@ -6,9 +6,11 @@ The main purpose of this tutorial is to introduce basic skills for working with 
 
 This tutorial will cover two topics:
 1. **Getting started**  
-    * Will cover installation and saving/exporting images.    
+    * Will cover installation of GIMP.    
 2. **Basic editing tools**
-    * Will introduce the most commonly used tools for basic image editing, including the different selection tools, paintbrush and pencil tools, the text tool, and others.
+    * This is where the bulk of the tutorial is centered on.
+    * It will introduce the most commonly used tools for basic image editing, including the different selection tools, paintbrush and pencil tools, the text tool, just to name a few.
+    * Will briefly cover saving and exporting images.
 
 This tutorial is designed to be an extension of Module 3: Digital Images by extending the topic of bitmap images. It is aimed towards those who are new or just getting started with GIMP and/or image editing software, although there is some information that even intermediate users might find helpful.
 

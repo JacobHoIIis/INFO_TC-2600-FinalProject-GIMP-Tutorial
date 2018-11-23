@@ -17,16 +17,16 @@
 In GIMP, there are three main windows/toolbars you will use.
 
 The far left window, the ***Toolbox***, contains the main editing tools and their options.
-![editing pic 1](/Pictures/editing_1.PNG " ")   
+![editing pic 1](/Pictures/editing_1.png " ")   
 
 The middle window contains 1. the editing canvas,   
-![editing pic 2](/Pictures/editing_2.PNG " ")
+![editing pic 2](/Pictures/editing_2.png " ")
 
 and 2. the main navbar.   
-![editing pic 3](/Pictures/editing_3.PNG " ")
+![editing pic 3](/Pictures/editing_3.png " ")
 
 The right window, ***Layers and Brushes***, contains image layers (beyond the scope of this tutorial, but important for advanced editing) in the upper half, and various types of brushes used for the Paintbrush and Pencil tools (discussed later in this tutorial) in the lower half.
-![editing pic 4](/Pictures/editing_4.PNG " ")
+![editing pic 4](/Pictures/editing_4.png " ")
 
 ---
 
@@ -92,7 +92,7 @@ This tool can select in any shape you want it to select.
 ![editing pic 12](/Pictures/editing_12.PNG " ")   
 
 4. Fuzzy Select Tool   ![fuzzyselect](/Pictures/fuzzyselect.PNG " ")  
-Selects an area based off of color. Click a part of your image with a certain color, and it will select the surrounding area *as long as it is the same color*. For example, in the following picture we selected a black part of the image, and it selected any part that was black.
+Selects an area based off of color. Click a part of your image with a certain color, and it will select the surrounding area *as long as it is the same color*. For example, in the following picture we selected a black part of the image, and it selected any part that was black.   
 ![editing pic 13](/Pictures/editing_13.PNG " ")   
 
 There are other select tools to choose from; however the ones above are the most commonly used and will suffice for most basic editing purposes.
@@ -153,10 +153,10 @@ You can export your finished images after you are done editing. Unlike **.xcf** 
 
 To do so, navigate to **File -> Export As...**   
 Here, you can choose a name for your finished image.   
-![editing pic 17](/Pictures/editing_17.PNG " ")   
+![editing pic 17](/Pictures/editing_17.png " ")   
 
 After you have chosen a name, you can choose a file extension for your image.    
-![editing pic 18](/Pictures/editing_18.PNG " ")  
+![editing pic 18](/Pictures/editing_18.png " ")  
 The most commonly used extensions for viewable images are JPEG and PNG, and for the purposes of this tutorial either will suffice.
 
 When you have both the name and extension set, go ahead and select **Export**.   

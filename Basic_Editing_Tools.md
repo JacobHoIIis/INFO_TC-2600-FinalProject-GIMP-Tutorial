@@ -139,7 +139,6 @@ Similar to the blur tool, the smudge tool can also be used to blur edges. Additi
 #### Saving and Exporting a File   
 
 ***Saving***   
-Saving your image file should be done periodically and often.   
 
 Initially, you will need to save your file with a name, so that it can be editable later on.   
 To do so, navigate on the navbar to **File -> Save**.
@@ -147,7 +146,7 @@ Here, you can choose a name and location to save your file.
 ![editing pic 16](/Pictures/editing_16.PNG " ")    
 Upon selecting **Save**, the image will save as an **.xcf** file, which is GIMP file extension for editable files.   
 
-After you have saved your image initially, you can save your changes periodically either by choosing **File -> Save** or by the key combination *Command/Control+S*.   
+After you have saved your image initially, you can save your changes periodically either by choosing **File -> Save** or by the key combination *Command/Control+S*. Saving your image file should be done as often as possible. This will prevent the loss of changes to your image should something happen between saves.   
 
 ***Exporting***   
 You can export your finished images after you are done editing. Unlike **.xcf** files which are only viewable in GIMP, exporting to an image format will allow other users to view your image without GIMP.   

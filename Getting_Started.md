@@ -15,7 +15,7 @@ However, if it doesn't, download the one that corresponds to your operating syst
 #### Installation:
 Once GIMP has finished downloading, navigate to the GIMP installer and open it.   
 
-Choose your language, and then select ***Ok***.
+Choose your language, and then select ***Ok***.   
 ![install pic 1](/Pictures/install_1.png " ")      
 
 On the next screen, you can either install or customize your installation. For the purposes of this tutorial, select ***Install***, as the default installation will work just fine for the purposes of this tutorial.

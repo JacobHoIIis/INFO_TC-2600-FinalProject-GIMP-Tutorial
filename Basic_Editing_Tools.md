@@ -3,8 +3,8 @@
 ---
 #### Table of contents:   
 -[Layout and Tool Windows](#layout-and-tool-windows)   
--[Creating/choosing a file](#creating/choosing-a-new-file-to-edit)    
--[Painting, Pencil, and Text Tools](#painting,-pencil,-and-text-tools)    
+-[Creating/choosing a file](#creating/choosing-a-file-to-edit)    
+-[Painting, Pencil, and Text Tools](#painting-pencil-and-text-tools)    
 -[Selection Tools](#selection-tools)     
 -[Move and Scaling Tools](#move-and-scaling-tools)       
 -[Blur and Smudge Tools](#blur-and-smudge-tools)    

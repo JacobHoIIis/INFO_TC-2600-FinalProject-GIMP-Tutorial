@@ -3,7 +3,7 @@
 ---
 #### Table of contents:   
 -[Layout and Tool Windows](#layout-and-tool-windows)   
--[Creating/choosing a file](#creating/choosing-a-file-to-edit)    
+-[Creating/choosing a file](#creating-choosing-a-file-to-edit)    
 -[Painting, Pencil, and Text Tools](#painting-pencil-and-text-tools)    
 -[Selection Tools](#selection-tools)     
 -[Move and Scaling Tools](#move-and-scaling-tools)       
@@ -168,15 +168,17 @@ You now have a finished image, edited in GIMP. You can always go back and edit t
 
 #### Where to go from here...
 
-This tutorial briefly covered very basic elements of GIMP. If you want to expand beyond the scope of this tutorial, below are some other great tutorials that teach specific elements of GIMP in more depth.
+This tutorial briefly covered very basic elements of GIMP. If you want to expand beyond the scope of this tutorial, below are some other great tutorials/how-to's that helped me back when I started with GIMP, and will hopefully help you.
 
 1. [Color and Brightness in GIMP](https://howtogimp.com/fix-brightness-and-color-in-gimp)
 2. [Layers in GIMP](https://google.com/amp/s/opensourceforu.com/2009/08/gimp-for-beginners-part-2-understanding-layers/amp/)
 3. [Filters/Effects in GIMP](https://quackit.com/web_graphics/gimp/tutorial/gimp_filters.cfm)    
 
-Additionally, the GIMP website has tutorials that tend to be more up-to-date then some independent tutorials.   
+Additionally, while the above tutorials are great for mastering concepts, the GIMP website also has tutorials that tend to be more up-to-date visually.
 You can find them [here](https://gimp.org/tutorials).   
 
+Try all the tools, mess with the colors, and don't be afraid to try a filter or two.   
+Because, after all, the best way to learn is to experiment.   
 Happy editing!
 
 

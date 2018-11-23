@@ -1,5 +1,5 @@
 # INFO_TC 2600 Final Project: GIMP Tutorial
-![GIMP logo](/Pictures/gimplogo.png " Logo")   
+![GIMP logo](/Pictures/gimplogo.PNG " Logo")   
 ### By Jacob Hollis
 ---
 The main purpose of this tutorial is to introduce basic skills for working with GIMP (GNU Image Manipulation Program). GIMP is a free open-source image editing program for Windows, Mac OSX, and Linux. It is a powerful image editing tool that can be used when more powerful options such as Photoshop are not available.  

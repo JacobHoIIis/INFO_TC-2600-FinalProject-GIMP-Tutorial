@@ -112,13 +112,14 @@ By clicking and holding, the tool will move a selection anywhere on the canvas.
 
 2. Transform Tools   
  * Rotate Tool ![rotatetool](/Pictures/rotatetool.PNG " ")   
- Rotates a selection by increments or by manual rotation.
+ Rotates a selection by inputting values, or by manually rotating with the cursor.   
 
  * Scale Tool ![scaletool](/Pictures/scaletool.PNG " ")   
- Resizes a selection by a certain amount.
+ Resizes a selection by a certain amount. Can be done by hand or values can be inputted.   
 
  * Flip Tool ![fliptool](/Pictures/fliptool.PNG " ")   
- Flips a selection either vertically or horizontally.
+ Flips a selection either vertically or horizontally. All you have to do is click on the selection you want to flip.       
+ You can change the direction in the **Tool Options** window.
 
 
 ---
